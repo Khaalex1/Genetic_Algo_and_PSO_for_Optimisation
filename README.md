@@ -2,7 +2,7 @@
 
 Authors : Alexandre Kha and Raphaël Valeri
 
-This repository implementats two well-known optimization algorithms PSO (Particle Swarm
+This repository implements two well-known optimization algorithms PSO (Particle Swarm
 Optimization) and GA (Genetic Algorithm) from scratch (without using specific optimization library)
 designed during a coursework of the Biologically Inspired Computation course at Heriot-Watt University.
 
