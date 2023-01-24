@@ -1,9 +1,13 @@
-This repository concerns the implementation of two well-known optimization algorithms PSO (Particle Swarm
+# GA and PSO for optimisation
+
+This repository implementats two well-known optimization algorithms PSO (Particle Swarm
 Optimization) and GA (Genetic Algorithm) from scratch (without using specific optimization library)
 designed during a coursework of the Biologically Inspired Computation course at Heriot-Watt University.
 
 Authors : Alexandre Kha and Raphaël Valeri
 Date : 28th November 2022
+
+## Code running 
 
 To run the code you can execute the following command
     python main.py
@@ -30,4 +34,8 @@ main.py script (first, the values for the PSO are set and then the ones of GA)
 
 Note that you can visualize the swarm of a PSO algorithm in a continuous contour plot when the dimension is 2. YOu can try to
 replace the value of the field 'dimension' in the main.py file by two.
+
+## Details and results
+
+See pdf
 
