@@ -36,7 +36,7 @@ replace the value of the field 'dimension' in the main.py file by two.
 
 It is also possible to run the programs directly from the GA_class.py and PSO.py files, however the user may know the signification of the parameters (examples are provided in the "main" section though).
 
-## Details and results
+## Implementation details and results
 
-See coursework report pdf
+For more details about the implementation and results, please see functions documentation and the coursework report pdf.
 
