@@ -38,5 +38,5 @@ It is also possible to run the programs directly from the GA_class.py and PSO.py
 
 ## Details and results
 
-See pdf
+See coursework report pdf
 
