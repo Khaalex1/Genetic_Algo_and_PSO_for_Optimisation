@@ -31,12 +31,12 @@ Other options are available:
 If you want to modify the values of the hyperparameters, you need to change their values at the beginning of the
 main.py script (first, the values for the PSO are set and then the ones of GA)
 
-Note that you can visualize the swarm of a PSO algorithm in a continuous contour plot when the dimension is 2. YOu can try to
+Note that you can visualize the swarm of a PSO algorithm in a continuous contour plot when the dimension is 2. You can try to
 replace the value of the field 'dimension' in the main.py file by two.
 
 It is also possible to run the programs directly from the GA_class.py and PSO.py files, however the user may know the signification of the parameters (examples are provided in the "main" section though).
 
-## Details and results
+## Implementation details and results
 
-See pdf
+For more details about the implementation and results, please see functions documentation and coursework report pdf.
 
