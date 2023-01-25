@@ -40,5 +40,7 @@ It is also possible to run the programs directly from the GA_class.py and PSO.py
 ## Implementation details and results
 
 For more details about the implementation and results, please see functions documentation and coursework report pdf.
-Note that the GA is particularly fast, which is due to the use of matrix (numpy array) formalism when possible. In an actual blackbox optimisation problem, it might not be necessarily possible to use this representation.
+
+Note that the GA is particularly fast, which is due to the use of matrix (numpy array) formalism when possible.
+In an actual blackbox optimisation problem, it might not be necessarily possible to use this representation.
 
